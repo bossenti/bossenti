@@ -10,7 +10,7 @@ I am a software engineer focusing on data science and data driven projects, I'm 
 
 <br>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="60"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="60"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL logo" width="60"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask logo" width="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit logo" width="90"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas logo" width="120"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter logo" width="60">
 
 <br>
 
@@ -32,9 +32,7 @@ I am a software engineer focusing on data science and data driven projects, I'm 
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossenti&hide=less,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossenti&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossenti&hide=less,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Bossenti's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossenti&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bossenti/bossenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
