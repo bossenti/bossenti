@@ -1,5 +1,29 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am bossenti!
 
+---
+
+I am a software engineer focusing on data science and data driven projects, I'm also an open source contributor [@Apache StreamPipes](https://streampipes.apache.org/). My common tech stack is listed in the toolbox below.
+
+---
+
+### 🧰 Toolbox
+
+<br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="50">
+
+<br>
+
+---
+
+###  📑Latest Blog Articles
+
+<br>
+
+<!-- BLOG-ARTICLES-LIST:START -->
+<!-- BLOG-ARTICLES-LIST:END -->
+
+▶️ [... more blog posts](https://bossenti.hashnode.dev/)
 <!--
 **bossenti/bossenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
