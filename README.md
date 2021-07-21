@@ -20,8 +20,9 @@ I am a software engineer focusing on data science and data driven projects, I'm 
 
 <br>
 
-<!-- BLOG-ARTICLES-LIST:START -->
-<!-- BLOG-ARTICLES-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ▶️ [... more blog posts](https://bossenti.hashnode.dev/)
 <!--
