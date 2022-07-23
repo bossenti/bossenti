@@ -26,7 +26,7 @@ I am a software engineer focusing on data science and data driven projects, I'm 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Real-Time Detection of Stairs with CV](https://bossenti.hashnode.dev/real-time-detection-of-stairs-with-cv)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [... more blog posts](https://bossenti.hashnode.dev/)
