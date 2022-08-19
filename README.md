@@ -26,6 +26,7 @@ I am a software engineer focusing on data science and data driven projects, I'm 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source IoT Hackathon with Apache Streampipes and Stackable](https://bossenti.hashnode.dev/open-source-iot-hackathon-with-apache-streampipes-and-stackable)
 - [Real-Time Detection of Stairs with CV](https://bossenti.hashnode.dev/real-time-detection-of-stairs-with-cv)
 <!-- BLOG-POST-LIST:END -->
 
