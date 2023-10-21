@@ -26,6 +26,7 @@ I am a software engineer focusing on data science and data driven projects, I'm 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Query Financial Data conveniant with vistafetch](https://bossenti.hashnode.dev/query-financial-data-conveniant-with-vistafetch)
 - [Data Observability is Key: A Hands-on Comparison of Open Source Data Catalog Tools](https://bossenti.hashnode.dev/data-observability-is-key-a-hands-on-comparison-of-open-source-data-catalog-tools)
 - [Apache StreamPipes for Pythonistas: IIoT data handling made easy!](https://bossenti.hashnode.dev/apache-streampipes-for-pythonistas-iiot-data-handling-made-easy)
 - [Open Source IoT Hackathon with Apache Streampipes and Stackable](https://bossenti.hashnode.dev/open-source-iot-hackathon-with-apache-streampipes-and-stackable)
