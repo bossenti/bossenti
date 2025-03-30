@@ -26,11 +26,10 @@ I am a software engineer focusing on data science and data driven projects, I'm 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Converting Sklearn Isolation Forrest to ONNX Model](https://bossenti.hashnode.dev/converting-sklearn-isolation-forrest-to-onnx-model)
-- [Query Financial Data conveniant with vistafetch](https://bossenti.hashnode.dev/query-financial-data-conveniant-with-vistafetch)
-- [Data Observability is Key: A Hands-on Comparison of Open Source Data Catalog Tools](https://bossenti.hashnode.dev/data-observability-is-key-a-hands-on-comparison-of-open-source-data-catalog-tools)
-- [Apache StreamPipes for Pythonistas: IIoT data handling made easy!](https://bossenti.hashnode.dev/apache-streampipes-for-pythonistas-iiot-data-handling-made-easy)
-- [Open Source IoT Hackathon with Apache Streampipes and Stackable](https://bossenti.hashnode.dev/open-source-iot-hackathon-with-apache-streampipes-and-stackable)
+- [Generating Custom Data Quality Assets](https://bossenti.dev/posts/20250227-custom-data-quality/)
+- [Converting a Sklearn Isolation Forrest to ONNX Model](https://bossenti.dev/posts/20240322-isolation-forest-onnx/)
+- [Query Financial Data Conveniently with vistafetch](https://bossenti.dev/posts/20231020-vistafetch/)
+- [Data Observability is Key: A Hands-on Comparison of Open Source Data Catalog Tools](https://bossenti.dev/posts/20230915-open-source-data-catalogs/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [... more blog posts](https://bossenti.dev/)
