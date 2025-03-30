@@ -33,7 +33,7 @@ I am a software engineer focusing on data science and data driven projects, I'm 
 - [Open Source IoT Hackathon with Apache Streampipes and Stackable](https://bossenti.hashnode.dev/open-source-iot-hackathon-with-apache-streampipes-and-stackable)
 <!-- BLOG-POST-LIST:END -->
 
-▶️ [... more blog posts](https://bossenti.hashnode.dev/)
+▶️ [... more blog posts](https://bossenti.dev/)
 
 <br>
 
